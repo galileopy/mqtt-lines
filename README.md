@@ -29,4 +29,4 @@ Options:
   **-v, --verbose**          Shows verbose output
 
 
-Project home: https://github.com/galileopy/mqtt-line
+Project home: https://github.com/galileopy/mqtt-lines

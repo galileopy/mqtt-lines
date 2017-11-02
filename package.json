@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/galileopy/mqtt-line.git"
+    "url": "git+https://github.com/galileopy/mqtt-lines.git"
   },
   "keywords": [
     "mqtt"
@@ -16,9 +16,9 @@
   "author": "Galileo Sanchez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/galileopy/mqtt-line/issues"
+    "url": "https://github.com/galileopy/mqtt-lines/issues"
   },
-  "homepage": "https://github.com/galileopy/mqtt-line#readme",
+  "homepage": "https://github.com/galileopy/mqtt-lines#readme",
   "dependencies": {
     "async-mqtt": "^1.0.1",
     "bacon": "0.0.1",
