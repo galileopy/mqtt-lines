@@ -4,7 +4,8 @@ Takes a file F and an interval X and publishes each line of the file as one mess
 Publishes a file line by line to one or more mqtt topics -t, making sure just
 one line is sent every -i milliseconds                                        
 
-`npm install mqtt-lines`
+`npm install -g mqtt-lines`
+
 
 Options:
 

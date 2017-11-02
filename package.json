@@ -3,6 +3,9 @@
   "version": "0.0.2",
   "description": "Utilitiy to replay a line delimited file line by line to  one mqtt channel",
   "main": "index.js",
+  "bin": {
+    "mqtt-lines": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
