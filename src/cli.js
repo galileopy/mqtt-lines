@@ -69,7 +69,7 @@ const sections = [
     header: 'Options',
     optionList
   },{
-    content: 'Project home: [underline]{https://github.com/galileopy/mqtt-line}'
+    content: 'Project home: [underline]{https://github.com/galileopy/mqtt-lines}'
   }]
 
 module.exports = {
