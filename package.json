@@ -1,5 +1,5 @@
 {
-  "name": "msi-replay-report",
+  "name": "mqtt-lines",
   "version": "0.0.1",
   "description": "Utilitiy to replay a line delimited file line by line to  one mqtt channel",
   "main": "index.js",
